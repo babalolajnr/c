@@ -2,6 +2,7 @@
 
 /**
  * Print Fahrenheit-Celsius table
+ * Formula `C=(5/9)(F-32)`
  */
 int main(int argc, char const *argv[])
 {
